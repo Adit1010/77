@@ -1,0 +1,10 @@
+var fn="Adit";
+var ln="Mahaseth";
+var name=fn.concat(ln);
+console.log(name);
+var a=10;
+var b=5;
+var add=a+b;
+console.log(add);
+var sub=a-b;
+console.log(sub);
